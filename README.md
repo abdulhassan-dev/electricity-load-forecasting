@@ -1,3 +1,4 @@
+![Banner]https://github.com/abdulhassan-dev/electricity-load-forecasting/blob/main/banner.png.png?raw=true
 # Electricity Load Forecasting 🔌📈
 
 This project focuses on forecasting electricity load using both synthetic and real-world datasets. It applies core machine learning techniques to predict future load demand, which is vital for smart grid integration and efficient energy distribution.
